@@ -1,4 +1,4 @@
-name: update gist
+name: update gist.
 
 on:
   schedule:
